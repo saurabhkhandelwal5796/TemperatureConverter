@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    width:100vw;
+    height:100vh;
+    display:grid;
+    place-items: center;
+
+}
+
+h1 {
+    background-color: white;
+    margin-top: 60px;
+}
+
+#tempCalc {
+    height:200px;
+    width:700px;
+    background-color: white;
+    color:red;
+    border-radius: 30px;
+    display:grid;
+    place-items: center;
+    background-color: bisque;
+
+
+}
